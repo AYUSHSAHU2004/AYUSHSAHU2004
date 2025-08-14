@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Sahu</h1>
 <h2 align="center">Full-stack & DevOps enthusiast | Member of NIT Web Team (6.3M+ users) | Skilled in React, Express, MySQL, MongoDB, Docker, AWS, WebRTC, and cloud architecture.</h2>
 
-<br></br>
 <h3 align="center">As a member of the NIT Web Team (serving 6.3M+ users), I manage production-grade systems using React, 
 Express, and MySQL.</h3>
-<br></br>
 <h4 align="center">At Team Innoreva, I maintained the Next.js + Sanity CMS site, developed an AI-driven 
 mass emailing system using the MERN stack, Nodemailer, and Gemini API,developing Backend for a basic
 LMS with JWT authentication, course management, lessons, quizzes, and user progress tracking built
