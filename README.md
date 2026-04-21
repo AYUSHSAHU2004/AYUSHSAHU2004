@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayush Sahu</h1>
-<h3 align="center">Full-Stack | DevOps | GenAI | Cloud Engineer</h3>
+<h1 align="center">Hi 👋, I'm Ayush Sahu ,PreFinal Student Year At NIT Jamshedpur</h1>
+<h2 align="center">GenAI  | Full-Stack | DevOps | Cloud Enthusiast</h3>
 
 <p align="center">
 Building scalable systems, AI-powered platforms, and real-time applications 🚀
@@ -10,7 +10,7 @@ Building scalable systems, AI-powered platforms, and real-time applications 🚀
 ## 🚀 About Me
 
 - 👨‍💻 Full-stack, DevOps, and GenAI enthusiast  
-- 🌐 Member of **NIT Web Team** (serving 6.3M+ users)  
+- 🌐 Past Member of **NIT Jamshedpur Official Web Team**   
 - ⚙️ Experienced in building **production-grade scalable systems**  
 - 🧠 Focused on **AI systems, distributed architecture, and cloud infrastructure**
 
@@ -38,7 +38,7 @@ Building scalable systems, AI-powered platforms, and real-time applications 🚀
 ## 💼 Experience
 
 ### 🔹 NIT Web Team
-- Managing and scaling systems used by **6.3M+ users**
+- Managed systems used by **6.3M+ users**
 - Worked on **React, Express, MySQL-based production systems**
 
 ### 🔹 Team Innoreva
