@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Sahu ,PreFinal Student At NIT Jamshedpur</h1>
+<h1 align="center">Hi 👋, I'm Ayush Sahu ,PreFinal Year Student At NIT Jamshedpur</h1>
 <h2 align="center">GenAI  | Full-Stack | DevOps | Cloud Enthusiast</h3>
 
 <p align="center">
